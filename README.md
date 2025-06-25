@@ -13,9 +13,9 @@ Projeto de Análise de Dados utilizando Python e o conjunto de dados fictício d
 - [Objetivo](#objetivo)
 - [Dataset](#dataset)
 - [Ferramentas Utilizadas](#ferramentas-utilizadas)
-- [Etapas](#principais-etapas)
-- [Insights](#principais-insights)
-- [Visualizações](#exemplos-de-visualizações)
+- [Principais Etapas](#principais-etapas)
+- [Principais Insights](#principais-insights)
+- [Exemplos de Visualizações](#exemplos-de-visualizações)
 - [Autor](#autor)
 
 ---
@@ -84,7 +84,8 @@ Entender os principais fatores que afetam o desempenho financeiro da empresa:
 **Lucro por Região**
 
 <img src="grafico-lucro-regiao.png" width="700"/>
----
+
+
 **Subcategorias com Prejuízo**
 
 <img src="grafico-prejuizo-subcategorias.png" width="700"/>
