@@ -12,10 +12,10 @@ Projeto de Análise de Dados utilizando Python e o conjunto de dados fictício d
 
 - [Objetivo](#-objetivo)
 - [Dataset](#-dataset)
-- [Ferramentas Utilizadas](#-ferramentas-utilizadas)
+- [Ferramentas Utilizadas](#%EF%B8%8F-ferramentas-utilizadas)
 - [Principais Etapas](#-principais-etapas)
 - [Principais Insights](#-principais-insights)
-- [Exemplos de Visualizações](#-exemplos-de-visualizacoes)
+- [Exemplos de Visualizações](#-exemplos-de-visualiza%C3%A7%C3%B5es)
 - [Autor](#-autor)
 
 ---
