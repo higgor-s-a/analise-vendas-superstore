@@ -10,13 +10,13 @@ Projeto de Análise de Dados utilizando Python e o conjunto de dados fictício d
 
 ## 🧭 Sumário
 
-- [Objetivo](#objetivo)
-- [Dataset](#dataset)
-- [Ferramentas Utilizadas](#ferramentas-utilizadas)
-- [Etapas](#principais-etapas)
-- [Insights](#principais-insights)
-- [Visualizações](#exemplos-de-visualizações)
-- [Autor](#autor)
+- [Objetivo](#🧠-objetivo)
+- [Dataset](#📦-dataset)
+- [Ferramentas Utilizadas](#🛠️-ferramentas-utilizadas)
+- [Etapas](#📌-principais-etapas)
+- [Insights](#📈-principais-insights)
+- [Visualizações](#📊-exemplos-de-visualizações)
+- [Autor](#👤-autor)
 
 ---
 
@@ -97,7 +97,7 @@ Em busca de aprendizado contínuo e visualizações impactantes.
 
 📧 **Email:** [higgor.sampaio@gmail.com](mailto:higgor.sampaio@gmail.com)  
 💼 **LinkedIn:** [Higgor Sampaio Alves](https://www.linkedin.com/in/higgor-sa/)  
-💻 **GitHub:** [Meu perfil do GitHub](https://github.com/higgor-s-a)
+💻 **GitHub:** [higgor-s-a](https://github.com/higgor-s-a)
 
 ---
 
