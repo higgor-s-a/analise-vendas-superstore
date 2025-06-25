@@ -8,6 +8,18 @@ Projeto de Análise de Dados utilizando Python e o conjunto de dados fictício d
 
 ---
 
+## 🧭 Sumário
+
+- [Objetivo](#objetivo)
+- [Dataset](#dataset)
+- [Ferramentas Utilizadas](#ferramentas-utilizadas)
+- [Etapas](#principais-etapas)
+- [Insights](#principais-insights)
+- [Visualizações](#exemplos-de-visualizações)
+- [Autor](#autor)
+
+---
+
 ## 🧠 Objetivo
 
 Entender os principais fatores que afetam o desempenho financeiro da empresa:
@@ -64,6 +76,28 @@ Entender os principais fatores que afetam o desempenho financeiro da empresa:
 - Estados como **Texas** e **Illinois** estão operando no vermelho.
 - **Tempo médio de entrega** entre 2 e 5 dias é comum e adequado.
 - **Lucro varia bastante** ao longo do tempo, sugerindo sazonalidade.
+
+---
+
+### 📊 Exemplos de Visualizações
+
+**Lucro por Região**
+<img src="grafico-lucro-regiao.png" width="700"/>
+
+**Subcategorias com Prejuízo**
+<img src="grafico-prejuizo-subcategorias.png" width="700"/>
+
+---
+
+# 👤 Autor
+
+**Higgor Sampaio Alves**  
+Estudante de Ciência de Dados  
+Em busca de aprendizado contínuo e visualizações impactantes.
+
+📧 **Email:** [higgor.sampaio@gmail.com](mailto:higgor.sampaio@gmail.com)  
+💼 **LinkedIn:** [Higgor Sampaio Alves](https://www.linkedin.com/in/higgor-sa/)  
+💻 **GitHub:** [Meu perfil do GitHub](https://github.com/higgor-s-a)
 
 ---
 
