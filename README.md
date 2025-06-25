@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Capa do Projeto Superstore" width="100%">
+</p>
+
 # 📊 Análise de Vendas - Superstore
 
 Projeto de Análise de Dados utilizando Python e o conjunto de dados fictício da Superstore. O objetivo foi explorar, visualizar e extrair insights sobre as vendas, lucros, regiões, categorias e comportamentos do negócio com base em dados históricos.
